@@ -33,7 +33,7 @@ We'll divide the data pipeline into 2 parts:
 
 Following architecture have been followed for both the components
 
-<img src="C:\Users\Gaurav\.spyder-py3\TwitterData\Data-Pipeline-Architectue.jpeg" style="zoom:80%;" />
+<img src="https://gaurav-personal-version-control.s3.amazonaws.com/Data-Pipeline-Architectue.jpeg" style="zoom:80%;" />
 
 ### Note
 
@@ -47,6 +47,6 @@ Following architecture have been followed for both the components
 
 * To set the credentials for AWS account run the below command on command prompt after installing AWS CLI. 
 
-   ![](C:\Users\Gaurav\.spyder-py3\TwitterData\cmd.JPG)
+   <img src="https://gaurav-personal-version-control.s3.amazonaws.com/cmd.JPG" style="zoom:80%;" />
 
   
