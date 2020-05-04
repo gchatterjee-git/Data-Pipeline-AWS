@@ -22,6 +22,7 @@ This project deals with collecting real-time twitter data on COVID-19 topic, pro
 * AWS S3
 * AWS Glue
 * IAM (For role creation)
+* CloudWatch
 
 ### How to use ?
 
