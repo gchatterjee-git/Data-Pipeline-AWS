@@ -16,7 +16,7 @@ This project deals with collecting real-time twitter data on COVID-19 topic, pro
   ```
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 
- Cloud services that we'll get introduced to in this project are:
+ Cloud services used in this project:
 
 * Kinesis Firehose
 * AWS S3
@@ -25,12 +25,10 @@ This project deals with collecting real-time twitter data on COVID-19 topic, pro
 
 ### Architecture
 
-We'll divide the data pipeline into 2 parts:
+Data pipeline has two parts :
 
 * Collecting Data
 * Processing Data
-
-Following architecture have been followed for both the components
 
 <img src="https://gaurav-personal-version-control.s3.amazonaws.com/Data-Pipeline-Architectue.jpeg" style="zoom:80%;" />
 
