@@ -23,16 +23,7 @@ This project deals with collecting real-time twitter data on COVID-19 topic, pro
 * AWS Glue
 * IAM (For role creation)
 
-### Architecture
-
-Data pipeline has two parts :
-
-* Collecting Data
-* Processing Data
-
-<img src="https://gaurav-personal-version-control.s3.amazonaws.com/Data-Pipeline-Architecture_updated.jpeg" style="zoom:80%;" />
-
-### Note
+### How to use ?
 
 * Use **tweetercred.py** to store twitter developer account credentials.
 
@@ -45,5 +36,15 @@ Data pipeline has two parts :
 * To set the credentials for AWS account run the below command on command prompt after installing AWS CLI. 
 
    <img src="https://gaurav-personal-version-control.s3.amazonaws.com/cmd_updated.jpeg" style="zoom:80%;" />
+
+### Architecture
+
+Data pipeline has two parts :
+
+* Collecting Data
+* Processing Data
+
+<img src="https://gaurav-personal-version-control.s3.amazonaws.com/Data-Pipeline-Architecture_updated.jpeg" style="zoom:80%;" />
+
 
   
