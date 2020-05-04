@@ -7,17 +7,16 @@ This project deals with collecting real-time twitter data on COVID-19 topic, pro
 ### Dependencies
 
 * boto3
-
-* tweepy
-
-* AWS CLI ( https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html )
-
-  ```shell
+```shell
   pip install boto3
+```
+* tweepy
+```shell
   pip install tweepy
   ```
+* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 
-Cloud services that we'll get introduced to in this project are:
+ Cloud services that we'll get introduced to in this project are:
 
 * Kinesis Firehose
 * AWS S3
