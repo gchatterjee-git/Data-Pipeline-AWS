@@ -30,7 +30,7 @@ Data pipeline has two parts :
 * Collecting Data
 * Processing Data
 
-<img src="https://gaurav-personal-version-control.s3.amazonaws.com/Data-Pipeline-Architectue.jpeg" style="zoom:80%;" />
+<img src="https://gaurav-personal-version-control.s3.amazonaws.com/Data-Pipeline-Architecture_updated.jpeg" style="zoom:80%;" />
 
 ### Note
 
@@ -44,6 +44,6 @@ Data pipeline has two parts :
 
 * To set the credentials for AWS account run the below command on command prompt after installing AWS CLI. 
 
-   <img src="https://gaurav-personal-version-control.s3.amazonaws.com/cmd.JPG" style="zoom:80%;" />
+   <img src="https://gaurav-personal-version-control.s3.amazonaws.com/cmd_updated.jpeg" style="zoom:80%;" />
 
   
